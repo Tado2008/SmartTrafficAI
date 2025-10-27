@@ -1,0 +1,5 @@
+echo import streamlit as st > app.py
+echo st.title("🚦 SmartTrafficAI") >> app.py
+echo st.write("Mirësevjen në aplikacionin për monitorimin e trafikut në Shqipëri!") >> app.py
+
+echo streamlit > requirements.txt
